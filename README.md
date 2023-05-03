@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MichaelZona, a Computer Science student in UESTC([University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)).
+- 👋 Hi, I’m [@MichaelZona](https://twitter.com/Michael21208234), a Computer Science student([Yingcai Honors Program](https://www.yingcai.uestc.edu.cn/)) in [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
 - 👀 I’m interested in computer vision, multimodal and basic algorithms.
-- 🌱 I’m currently learning the medical image processing using deep learning.
+- 🌱 I’m currently working on the inter-document document analysis.
 - ✨ I've won the silver medal in 47th International Collegiate Programming Contest Asia Regional Contest and the silver medal in China Collegiate Programming Contest.
-- 💞️ I’m looking forward to helping people especially doctors to analysis images with deep learning.
-- 📫 How to contact me: <michaelzhangziniu@gmail.com> or <2462970640@qq.com>.
+- 💞️ I’m looking forward to chatting with researchers around the world about deep learning, computer vision, multimodal and so on.
+- 📫 How to contact me: <michaelzhangziniu@gmail.com>.
 
 <!---
 MichaelZona/MichaelZona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
