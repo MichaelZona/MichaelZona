@@ -1,9 +1,5 @@
-- 👋 Hi, I’m [@MichaelZona](https://twitter.com/Michael21208234), a Computer Science student([Yingcai Honors Program](https://www.yingcai.uestc.edu.cn/)) in [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
-- 👀 I’m interested in computer vision, multimodal and basic algorithms.
-- 🌱 I’m currently working on the inter-document document analysis.
-- ✨ I've won the silver medal in 47th International Collegiate Programming Contest Asia Regional Contest and the silver medal in China Collegiate Programming Contest.
-- 💞️ I’m looking forward to chatting with researchers around the world about deep learning, computer vision, multimodal and so on.
-- 📫 How to contact me: <michaelzhangziniu@gmail.com>.
+- A simple senior student
+- persue to do some meaningful projects contributing to the forward progression of mankind.
 
 <!---
 MichaelZona/MichaelZona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
