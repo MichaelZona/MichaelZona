@@ -1,4 +1,4 @@
-- A simple senior student
+- A simple senior student.
 - persue to do some meaningful projects contributing to the forward progression of mankind.
 
 <!---
