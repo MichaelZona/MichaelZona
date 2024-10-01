@@ -1,5 +1,4 @@
-- A simple senior student.
-- persue to do some meaningful projects contributing to the forward progression of mankind.
+- a simple PhD student.
 
 <!---
 MichaelZona/MichaelZona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
